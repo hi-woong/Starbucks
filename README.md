@@ -6,7 +6,6 @@
 꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
 
 [master 브랜치로 이동](https://github.com/hi-woong/starbucks) <br/>
-[signin 브랜치로 이동](https://github.com/hi-woong/starbucks/tree/feature/signin)
 
 
 [DEMO+signin](https://idyllic-cannoli-5d3cd8.netlify.app/) <br/>
