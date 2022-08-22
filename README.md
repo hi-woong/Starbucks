@@ -11,7 +11,7 @@
 
 [DEMO+signin](https://idyllic-cannoli-5d3cd8.netlify.app/) <br/>
 
-![Starbucks](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/main_screenshot.jpg)
+![image](https://user-images.githubusercontent.com/105634994/185831125-c4e36acc-305e-4179-9d7d-862e1e43417d.png)
 
 ## 문자 인코딩(Character Encoding) 설정
 
